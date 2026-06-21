@@ -59,49 +59,49 @@ The tank level is manually controlled by changing the valve opening percentage. 
 
 ### Factory I/O Tank Scene
 
-![Factory IO Tank Scene](Phase%201%20-%20Manual%20Valve%20Control/Screenshots/phase1_factoryio_tank_scene.png)
+![Factory IO Tank Scene](Phase%201%20-%20Manual%20Valve%20Control/screenshots/phase1_factoryio_tank_scene.png)
 
 ---
 
 ### Analog Valve Control Logic
 
-![Analog Valve Control](Phase%201%20-%20Manual%20Valve%20Control/Screenshots/phase1_analog_valve_control.png)
+![Analog Valve Control](Phase%201%20-%20Manual%20Valve%20Control/screenshots/phase1_analog_valve_control.png)
 
 ---
 
 ### NORM_X Scaling
 
-![NORM\_X Scaling](Phase%201%20-%20Manual%20Valve%20Control/Screenshots/phase1_norm_x_scaling.png)
+![NORM\_X Scaling](Phase%201%20-%20Manual%20Valve%20Control/screenshots/phase1_norm_x_scaling.png)
 
 ---
 
 ### SCALE_X Scaling
 
-![SCALE\_X Scaling](Phase%201%20-%20Manual%20Valve%20Control/Screenshots/phase1_scale_x_scaling.png)
+![SCALE\_X Scaling](Phase%201%20-%20Manual%20Valve%20Control/screenshots/phase1_scale_x_scaling.png)
 
 ---
 
 ### Watch Table Monitoring
 
-![Watch Table Monitoring](Phase%201%20-%20Manual%20Valve%20Control/Screenshots/phase1_watch_table_monitoring.png)
+![Watch Table Monitoring](Phase%201%20-%20Manual%20Valve%20Control/screenshots/phase1_watch_table_monitoring.png)
 
 ---
 
 ### High Level Alarm Logic
 
-![High Level Alarm Logic](Phase%201%20-%20Manual%20Valve%20Control/Screenshots/phase1_high_level_alarm_logic.png)
+![High Level Alarm Logic](Phase%201%20-%20Manual%20Valve%20Control/screenshots/phase1_high_level_alarm_logic.png)
 
 ---
 
 ### High Level Alarm Active
 
-![High Level Alarm Active](Phase%201%20-%20Manual%20Valve%20Control/Screenshots/phase1_high_level_alarm_active.png)
+![High Level Alarm Active](Phase%201%20-%20Manual%20Valve%20Control/screenshots/phase1_high_level_alarm_active.png)
 
 ---
 
 ### Demo Video
 
-[Watch Demo](Phase%201%20-%20Manual%20Valve%20Control/Videos/demo.mp4)
+[Watch Demo](Phase%201%20-%20Manual%20Valve%20Control/videos/demo.mp4)
 
 ---
 
@@ -124,37 +124,37 @@ The PLC automatically fills the tank when the level falls below the low limit an
 
 ### Auto Fill Logic
 
-![Auto Fill Logic](Phase%202%20-%20Automatic%20Level%20Control/Screenshots/phase2_auto_fill_logic.png)
+![Auto Fill Logic](Phase%202%20-%20Automatic%20Level%20Control/screenshots/phase2_auto_fill_logic.png)
 
 ---
 
 ### Auto Drain Logic
 
-![Auto Drain Logic](Phase%202%20-%20Automatic%20Level%20Control/Screenshots/phase2_auto_drain_logic.png)
+![Auto Drain Logic](Phase%202%20-%20Automatic%20Level%20Control/screenshots/phase2_auto_drain_logic.png)
 
 ---
 
 ### Tank at Low Level
 
-![Tank at Low Level](Phase%202%20-%20Automatic%20Level%20Control/Screenshots/phase2_factoryio_tank_at_low_level.png)
+![Tank at Low Level](Phase%202%20-%20Automatic%20Level%20Control/screenshots/phase2_factoryio_tank_at_low_level.png)
 
 ---
 
 ### Tank at High Level
 
-![Tank at High Level](Phase%202%20-%20Automatic%20Level%20Control/Screenshots/phase2_factoryio_tank_at_high_level.png)
+![Tank at High Level](Phase%202%20-%20Automatic%20Level%20Control/screenshots/phase2_factoryio_tank_at_high_level.png)
 
 ---
 
 ### Watch Table Auto Control
 
-![Watch Table Auto Control](Phase%202%20-%20Automatic%20Level%20Control/Screenshots/phase2_watch_table_auto_control.png)
+![Watch Table Auto Control](Phase%202%20-%20Automatic%20Level%20Control/screenshots/phase2_watch_table_auto_control.png)
 
 ---
 
 ### Demo Video
 
-[Watch Demo](Phase%202%20-%20Automatic%20Level%20Control/Videos/demo.mp4)
+[Watch Demo](Phase%202%20-%20Automatic%20Level%20Control/videos/demo.mp4)
 
 ---
 
@@ -179,31 +179,31 @@ A potentiometer is used to adjust the setpoint in real time. The PID controller 
 
 ### Factory I/O PID Operation
 
-![Factory IO PID Operation](Phase%203%20-%20PID%20Control/Screenshots/phase3_factoryio_pid_operation.png)
+![Factory IO PID Operation](Phase%203%20-%20PID%20Control/screenshots/phase3_factoryio_pid_operation.png)
 
 ---
 
 ### PID Program in OB30
 
-![PID Program OB30](Phase%203%20-%20PID%20Control/Screenshots/phase3_pid_program_ob30.png)
+![PID Program OB30](Phase%203%20-%20PID%20Control/screenshots/phase3_pid_program_ob30.png)
 
 ---
 
 ### PID Parameters
 
-![PID Parameters](Phase%203%20-%20PID%20Control/Screenshots/phase3_pid_parameters.png)
+![PID Parameters](Phase%203%20-%20PID%20Control/screenshots/phase3_pid_parameters.png)
 
 ---
 
 ### PID Trace Analysis
 
-![PID Trace Analysis](Phase%203%20-%20PID%20Control/Screenshots/phase3_pid_trace_analysis.png)
+![PID Trace Analysis](Phase%203%20-%20PID%20Control/screenshots/phase3_pid_trace_analysis.png)
 
 ---
 
 ### Demo Video
 
-[Watch Demo](Phase%203%20-%20PID%20Control/Videos/demo.mp4)
+[Watch Demo](Phase%203%20-%20PID%20Control/videos/demo.mp4)
 
 ---
 
